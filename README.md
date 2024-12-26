@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Aeiyan Khan](https://www.linkedin.com/in/aeiyan-khan/)
+- Email: [aeiyankhan2@gmail.com](mailto:aeiyankhan2@gmail.com)
 
 ---
 
