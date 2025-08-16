@@ -24,8 +24,8 @@
 ⚡ Fun fact **Your smartphone today has more computing power than the computers that sent us to the moon in 1969. It's a rocket scientist in your pocket!" 🚀📱😄**
 
  </div>
-
- <div align="center"> 
+ <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+ <div align="center"> </div>
   <a href="mailto:aeiyankhan2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
