@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I am Muhammad Aeiyan Khan!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I+am+Muhammad+Aeiyan+Khan!" />
     <h3 align="center">A Passionate Software Engineer and Full Stack Developer </h3>
 </h1>
 
@@ -50,8 +50,7 @@
 </div>
 <br/>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeiyannn&show_icons=true&locale=en&layout=compact" alt="aeiyannn" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeiyannn&show_icons=true&locale=en&layout=compact" alt="aeiyannn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeiyannn&show_icons=true&locale=en" alt="aeiyannn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeiyannn&" alt="aeiyannn" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aeiyannn&" alt="aeiyannn" /></p>
