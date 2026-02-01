@@ -1,16 +1,16 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I+am+Muhammad+Aeiyan+Khan!" />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I+am+Muhammad+Aeiyan+Khan!" />
     <h3 align="center">A Passionate Software Engineer and Full Stack Developer </h3>
 </h1>
 
-<img src="http://media.licdn.com/dms/image/v2/D4D16AQFT9iA1tcnf4w/profile-displaybackgroundimage-shrink_350_1400/B4DZi7pkJ1G8AY-/0/1755494893886?e=1763596800&v=beta&t=C5F6NgGmHwsBuEFId9jtc27zy6EdpxDXPfxYSVcFomM" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeiyannn&label=Profile%20views&color=0e75b6&style=flat" alt="aeiyannn" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeiyannn" alt="aeiyannn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <div align="left">
  
@@ -26,7 +26,7 @@
 ⚡ Fun fact **Your smartphone today has more computing power than the computers that sent us to the moon in 1969. It's a rocket scientist in your pocket!" 🚀📱😄**
 
  </div>
- <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+ <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aeiyannn&theme=react-dark&hide_border=true" />
  <div align="center"> </div>
   <a href="mailto:aeiyankhan2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -55,4 +55,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeiyannn&show_icons=true&locale=en&layout=compact" alt="aeiyannn" /></p>
 
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aeiyannn&" alt="aeiyannn" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.vercel.app/?user=aeiyannn&theme=react&hide_border=true" alt="aeiyannn" /></p>
