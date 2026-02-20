@@ -1,14 +1,15 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I+am+Muhammad+Aeiyan+Khan!" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B+I+am+Muhammad+Aeiyan+Khan!" alt="Typing SVG" /></a>
     <h3 align="center">A Passionate Software Engineer and Full Stack Developer </h3>
 </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeiyannn&label=Profile%20views&color=0e75b6&style=flat" alt="aeiyannn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeiyannn" alt="aeiyannn" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeiyannn" alt="aeiyannn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=aeiyannn" alt="aeiyannn" /></a> </p>
 
 
 
@@ -52,7 +53,4 @@
 </div>
 <br/>
 <hr/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aeiyannn&show_icons=true&locale=en&layout=compact" alt="aeiyannn" /></p>
-
-
-<p align="center"><img  src="https://github-readme-streak-stats.vercel.app/?user=aeiyannn&theme=react&hide_border=true" alt="aeiyannn" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=aeiyannn" alt="aeiyannn" /></p>
